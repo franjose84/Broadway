@@ -178,7 +178,7 @@ MEDIA QUERIES
 	}
 
 	.nav__arrow {
-		display: none;
+		display: none; /* Makes arrow dissapear*/
 	}
 
 
